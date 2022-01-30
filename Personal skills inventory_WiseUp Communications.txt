@@ -1,0 +1,26 @@
+Skills Developed	Challenge	Action taken	Results	Self-reflection/ Key takeaway
+ Adaptability 
+
+(e.g challenge faced in an internship; situation where you handled a lot of pressure; time you failed)	Meeting with a major road accident due to which I was not able to give my best during the exams and eventually failed and also got detained for an year by the management	i met with the Head of the Department spoke to him about the situation. Sir was so kind that he assigned faculty to teach me during the extra hours	After struggling with the situation I was finally able to clear the exams.	Not giving up to the circumstances is what I learnt from this situation
+Analytical  
+
+(e.g project where you had to perform detailed research and analysis)	During our final year of engineering the final project we had to perform was based on solar panel based multilevel inverter technology and the equipment costes alott which our team couldnt afford to buy	As a result we instead of going for a live project came up with the idea of implementing our design using MATLAB.	We were able to effectively get our results that we wanted with out the risk of loosing the capital that we invested	how to work smartly in difficult situations is what i have learnt from this.
+Communication 
+
+(e.g convince someone of your idea, present complex information, get your point across)	During the technical festival in our college days some of the seniors from my department orgaanised an event on the behalf of our department. None of my classmates were willing to participate in the event of our department 	As I was close to me seniors they approached me and as I got to know about the problem I spoke to all of my classmates at once about how much practical knowledge we can gain from this event and we should contribute with our participation to make it a success	After me talking to my classmates most of them have taken part in the event and it was a huge success as we were able get participations from other branches as well	Having good communication skills can help us to convince about what needs to be done. This is what i learnt during this event
+Initiative 
+
+(e.g stepped up to a challenge, identified a problem and took action to solve it, did something even though not your responsibility)	During the technical festival in our college days some of the seniors from my department orgaanised an event on the behalf of our department. None of my classmates were willing to participate in the event of our department	As I was close to me seniors they approached me and as I got to know about the problem I spoke to all of my classmates at once about how much practical knowledge we can gain from this event and we should contribute with our participation to make it a success	After me talking to my classmates most of them have taken part in the event and it was a huge success as we were able get participations from other branches as wel	Sometimes lending a hand to others gives you more satisfaction
+Skills Developed	Challenge	Action taken	Results	Self-reflection/ Key takeaway
+Leadership 
+
+(e.g coordinated several people to achieve a goal, led a group but not successful)	In our Engineering days we used to have our department association where we discuss the difficulties with our faculty and I was the one representing our class	We discussed with our faculty how new recruits among the faculty teaching us have not much experience in the subject that they were given to teach	The Head of the Department replaced the professor who was teaching us with a much experienced professor	discussing the problems that we face at the right time with the right person helps us to solve them
+Planning & Organization 
+
+(e.g overcame a tight timeline, handled multiple responsibilities, manage your time and prioritize tasks)	During our training at EdYoda at the end of Html , CSS module we were given our final project to develop a replica of a website which was very difficult	I have watched the recordings of the sessions became thorough with the concepts and started implementing the project in steps.	i was able to complete the project on time	good planning aids in completing the given task on time
+Problem-solving skills 
+
+(e.g talk about a problem/obstacles faced to reach a goal and how you solved it)				
+Teamwork  
+
+(e.g when you worked on a team to achieve a goal; conflict faced when working on a team; working with a team member not cooperative)				
